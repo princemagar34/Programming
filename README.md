@@ -1,6 +1,7 @@
 #TEACHER MANAGEMENT SYSTEM
 
 📌 About This Project
+
 Developed a comprehensive Java Swing GUI application for educational staff management with separate interfaces for lecturers and tutors, implementing object-oriented programming principles and dynamic data management capabilities.
 
 
